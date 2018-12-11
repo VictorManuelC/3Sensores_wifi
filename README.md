@@ -45,3 +45,7 @@ MATERIAL
 - buzzer
 - sensor wifi esp8266 nodemcu v3
 - cable micro usb
+
+Desarrollo en arduino que es un software libre
+
+nota:adjunte el proyecto completo desarrollado originalmente en arduino, por cuestiones del modulo wifi se tuvo oque migrar a insertar el codigo en modulo que actua como arduino.
